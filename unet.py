@@ -1,3 +1,5 @@
+# git/github test hR and Me 
+
 import tensorflow as tf
 import os
 import random
