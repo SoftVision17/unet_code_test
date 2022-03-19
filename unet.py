@@ -1,5 +1,5 @@
 # git/github test hR and Me 
-
+# configrme the comment and clone 
 import tensorflow as tf
 import os
 import random
