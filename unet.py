@@ -1,10 +1,14 @@
 # git/github test hR and Me 
 # configrme the comment and clone 
 import tensorflow as tf
-import os
 import random
 import numpy as np
+
 import keras  
+
+import pandas as  pd 
+
+
 from tqdm import tqdm 
 
 from skimage.io import imread, imshow
